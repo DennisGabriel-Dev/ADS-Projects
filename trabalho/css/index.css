@@ -1,3 +1,12 @@
+.periodos{
+    border: 10px;
+    border-color: aqua;
+}
+
+#mar{
+    margin-right: 35px;
+}
+
 body{
     background-color: lightblue;
 }
